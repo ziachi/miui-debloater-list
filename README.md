@@ -1,6 +1,9 @@
-# Miui 10/11 debloater for Xiaomi devices
+fork from https://github.com/ramalhovfc/miui10-11-debloater
 
-I wrote this script to remove all kinds of useless Xiaomi apps and services that come pre installed on Miui 10/11 devices. It removes things like second space, quick ball, app vault and all Xiaomi apps that can be replaced with Google ones.
+remove some list
+
+if you look more app you  can check morestuff.md fork from https://github.com/ramalhovfc/miui10-11-debloater](https://gist.github.com/mcxiaoke/ade05718f590bcd574b807c4706a00b1
+
 
 **Use at your own risk**
 
