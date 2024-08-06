@@ -1,8 +1,6 @@
 adb devices
-adb shell pm uninstall -k --user 0 com.miui.notes
 adb shell pm uninstall -k --user 0 com.miui.analytics
 adb shell pm uninstall -k --user 0 com.google.android.videos
-adb shell pm uninstall -k --user 0 com.miui.gallery
 adb shell pm uninstall -k --user 0 com.mipay.wallet.id
 adb shell pm uninstall -k --user 0 com.android.calendar
 adb shell pm uninstall -k --user 0 com.google.android.inputmethod.japanese
@@ -19,26 +17,10 @@ adb shell pm uninstall -k --user 0 com.android.browser
 adb shell pm uninstall -k --user 0 com.android.mms
 adb shell pm uninstall -k --user 0 com.xiaomi.midrop
 adb shell pm uninstall -k --user 0 com.miui.bugreport
-adb shell pm uninstall -k --user 0 com.mi.android.globalFileexplorer
-adb shell pm uninstall -k --user 0 com.mi.android.thememanager
-adb shell pm uninstall -k --user 0 com.android.thememanager
 adb shell pm uninstall -k --user 0 com.android.xmsf
 adb shell pm uninstall -k --user 0 com.xiaomi.xmsf
 adb shell pm uninstall -k --user 0 com.xiaomi.joyose
-adb shell pm uninstall -k --user 0 com.miui.cloudservice
 adb shell pm uninstall -k --user 0 com.miui.msa.global
-adb shell pm uninstall -k --user 0 com.miui.cleanmaster
-adb shell pm uninstall -k --user 0 com.miui.calculator
-adb shell pm uninstall -k --user 0 com.miui.micloudsync
-adb shell pm uninstall -k --user 0 com.miui.daemon
-adb shell pm uninstall -k --user 0 com.qualcomm.wfd.service
-adb shell pm uninstall -k --user 0 com.miui.securitycore
-adb shell pm uninstall -k --user 0 com.android.wallpaperbackup
-adb shell pm uninstall -k --user 0 com.miui.cloudservice.sysbase
-adb shell pm uninstall -k --user 0 com.android.provision
-adb shell pm uninstall -k --user 0 com.miui.touchassistant
-adb shell pm uninstall -k --user 0 com.miui.backup
-adb shell pm uninstall -k --user 0 com.miui.hybrid
 adb shell pm uninstall -k --user 0 com.miui.translationservice
 adb shell pm uninstall -k --user 0 com.xiaomi.discover
 adb shell pm uninstall -k --user 0 com.miui.translation.kingsoft
@@ -55,4 +37,3 @@ adb shell pm uninstall -k --user 0 com.google.android.apps.googleassistant
 adb shell pm uninstall -k --user 0 com.google.android.projection.gearhead
 adb shell pm uninstall -k --user 0 com.xiaomi.mi_connect_service
 adb shell pm uninstall -k --user 0 com.xiaomi.miplay_client
-adb shell pm uninstall -k --user 0 com.miui.miservice
