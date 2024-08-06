@@ -1,5 +1,13 @@
 adb devices
-adb shell pm uninstall -k --user 0  com.mi.global.bbs
+adb shell pm uninstall -k --user 0 com.google.android.gm
+adb shell pm uninstall -k --user 0 com.google.android.apps.docs
+adb shell pm uninstall -k --user 0 com.google.android.apps.youtube.music
+adb shell pm uninstall -k --user 0 com.google.android.apps.tachyon
+adb shell pm uninstall -k --user 0 com.google.android.apps.photos
+adb shell pm uninstall -k --user 0 com.google.android.apps.podcasts
+adb shell pm uninstall -k --user 0 com.mi.globalbrowser
+adb shell pm uninstall -k --user 0 adb shell pm uninstall -k --user 0 
+adb shell pm uninstall -k --user 0 com.mi.global.bbs
 adb shell pm uninstall -k --user 0 com.linkedin.android
 adb shell pm uninstall -k --user 0 cn.wps.moffice_eng
 adb shell pm uninstall -k --user 0 com.amazon.mShop.android.shopping
