@@ -1,4 +1,8 @@
 adb devices
+adb shell pm uninstall -k --user 0  com.mi.global.bbs
+adb shell pm uninstall -k --user 0 com.linkedin.android
+adb shell pm uninstall -k --user 0 cn.wps.moffice_eng
+adb shell pm uninstall -k --user 0 com.amazon.mShop.android.shopping
 adb shell pm uninstall -k --user 0 com.miui.analytics
 adb shell pm uninstall -k --user 0 com.google.android.videos
 adb shell pm uninstall -k --user 0 com.mipay.wallet.id
